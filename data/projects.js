@@ -277,13 +277,13 @@ window.PORTFOLIO = {
   performances: [
     {
       platform: "YouTube",
-      title: "Performance 01",
+      title: "The Orchestra of Futuristic Noise Intoners",
       embed: "https://www.youtube-nocookie.com/embed/bROmkju_12s",
       external: "https://youtu.be/bROmkju_12s?si=v1H_kWwdcUNULSKK"
     },
     {
       platform: "Instagram",
-      title: "Performance 02",
+      title: "Societè I - Luc Ferrari",
       embed: "https://www.instagram.com/reel/DAtanpdtgfh/embed/",
       external: "https://www.instagram.com/reel/DAtanpdtgfh/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ=="
     }
