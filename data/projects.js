@@ -133,15 +133,15 @@ window.PORTFOLIO = {
       videoEmbeds: [
         {
           label: "Air Controller — Demonstration",
-          embed: "https://www.youtube-nocookie.com/embed/VIDEO_ID",
-          external: "https://youtu.be/VIDEO_ID"
+          embed: "hhttps://youtu.be/-sXqeP1q9hw?si=o41pguJbk15Jxtim",
+          external: "https://youtu.be/-sXqeP1q9hw?si=o41pguJbk15Jxtim"
         }
       ],
 
       links: [
         {
           label: "Watch on YouTube",
-          href: "https://youtu.be/VIDEO_ID"
+          href: "https://youtu.be/-sXqeP1q9hw?si=o41pguJbk15Jxtim"
         }
       ]
     }
