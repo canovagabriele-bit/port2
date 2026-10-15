@@ -129,8 +129,22 @@ window.PORTFOLIO = {
       image: "assets/img/air.jpg",
       summary: "A gestural interface that translates hand distances, position and velocity into normalized musical data that can be mapped in real time.",
       tags: ["MediaPipe", "Python", "OSC", "Max for Live"],
-      links: []
-    },
+
+      videoEmbeds: [
+        {
+          label: "Air Controller — Demonstration",
+          embed: "https://www.youtube-nocookie.com/embed/VIDEO_ID",
+          external: "https://youtu.be/VIDEO_ID"
+        }
+      ],
+
+      links: [
+        {
+          label: "Watch on YouTube",
+          href: "https://youtu.be/VIDEO_ID"
+        }
+      ]
+    }
     {
       slug: "sonic-shuffle",
       title: "Sonic Shuffle",
