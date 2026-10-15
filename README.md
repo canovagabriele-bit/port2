@@ -50,15 +50,15 @@ links: [
 
 I link vuoti non vengono mostrati. Per evitare placeholder visibili, lascia l'array `links` vuoto oppure rimuovi il progetto finché non è pronto.
 
-## Produzioni pubblicate
+## Performances
 
-La sezione `Productions` si aggiorna modificando l'array:
+La slide `Performances` si aggiorna modificando l'array:
 
 ```javascript
-releases: [ ... ]
+performances: [ ... ]
 ```
 
-Ogni nuova uscita può avere artista, titolo, anno, ruolo, crediti, immagine e link alle piattaforme.
+Ogni performance può avere piattaforma, titolo, URL embed e link esterno.
 
 ## Media pesanti
 
@@ -99,3 +99,9 @@ Settings → Pages → Deploy from a branch → main → /root
 - Margherita Data renamed Materia.
 - Explanatory placeholders removed from Index and Contact.
 - Vincoli composite added only as a background layer on the Studies slide.
+
+
+## Update media — 15 October 2026
+- Air Controller: added YouTube demonstration embed and external link.
+- Pinacoteca Albertina: added private SoundCloud listening link.
+- Project media remain centralized in `data/projects.js`; `site.js` contains only rendering logic.

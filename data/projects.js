@@ -133,7 +133,7 @@ window.PORTFOLIO = {
       videoEmbeds: [
         {
           label: "Air Controller — Demonstration",
-          embed: "hhttps://youtu.be/-sXqeP1q9hw?si=o41pguJbk15Jxtim",
+          embed: "https://www.youtube-nocookie.com/embed/-sXqeP1q9hw",
           external: "https://youtu.be/-sXqeP1q9hw?si=o41pguJbk15Jxtim"
         }
       ],
@@ -144,7 +144,7 @@ window.PORTFOLIO = {
           href: "https://youtu.be/-sXqeP1q9hw?si=o41pguJbk15Jxtim"
         }
       ]
-    }
+    },
     {
       slug: "sonic-shuffle",
       title: "Sonic Shuffle",
@@ -191,7 +191,8 @@ window.PORTFOLIO = {
         { src: "assets/img/pinacoteca-look-03.webp", alt: "Garment presented in the Pinacoteca Albertina project" }
       ],
       links: [
-        { label: "Open Instagram post", href: "https://www.instagram.com/p/DZ-PwOriCSY/" }
+        { label: "Open Instagram post", href: "https://www.instagram.com/p/DZ-PwOriCSY/" },
+        { label: "Listen on SoundCloud", href: "https://soundcloud.com/bmashmusic/ambient-work-pinacoteca/s-0ObwCqPj2jn?si=2bcd3b91a0434f03bc41fe7aa13c3efd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" }
       ]
     },
     {
